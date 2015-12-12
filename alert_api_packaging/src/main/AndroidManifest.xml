@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="space.liuhao.alert_api_packaging">
+
+    <application
+        android:allowBackup="true"
+        android:supportsRtl="true">
+    </application>
+
+</manifest>
